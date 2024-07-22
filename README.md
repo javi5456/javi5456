@@ -3,8 +3,8 @@
 Soy un desarrollador apasionado por la tecnología y la innovación. Actualmente estoy trabajando en proyectos de Backend con tecnologías como NestJS, TypeScript y TypeORM.
 
 ## 🚀 Proyectos
-
-- [Reserva Gol](https://github.com/feka3/PF---Back) | [Frontend](https://github.com/Tomasdmiguel/Proyecto-Final-Front) 
+Reserva Gol:
+- [Backend](https://github.com/feka3/PF---Back) | [Frontend](https://github.com/Tomasdmiguel/Proyecto-Final-Front) 
   - En este proyecto usamos las siguientes tecnologías:
     - Backend: NestJS, PostgreSQL, Cloudinary, TypeORM
     - Frontend: Next.js, React, Tailwind CSS
