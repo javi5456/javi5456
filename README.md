@@ -29,11 +29,5 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Actualmente
 - NestJS
 - PostgreSQL
 
-## 🎨 Diseño y Animaciones
-
-Puedes añadir gráficos y animaciones utilizando herramientas como [LottieFiles](https://lottiefiles.com/), [Chart.js](https://www.chartjs.org/), o [D3.js](https://d3js.org/).
-
----
-
 ¡Gracias por visitar mi perfil!
 
