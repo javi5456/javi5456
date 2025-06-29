@@ -11,7 +11,8 @@ Reserva Gol:
 
 ## 🌱 Aprendiendo actualmente
 
-- .NET
+- Java
+- Python
 
 ## 💬 Contáctame
 
